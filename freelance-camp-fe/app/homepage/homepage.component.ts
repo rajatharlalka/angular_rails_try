@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-	moduleId: module.id
+	moduleId: module.id,
 	selector: 'homepage',
 	templateUrl: 'homepage.component.html'
 })
